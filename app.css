@@ -29,6 +29,13 @@
       <label for="outdoor">
         <input id="outdoor" type="radio"
         name="indoor-outdoor">Outdoor</label>
+    <label for="loving"><input id="loving" type="checkbox"
+    name="personality">Loving</label>
+    <label for="gentle"><input id="gentle" type="checkbox"  
+    name="personality">Gentle</label>
+    <label for="playful"><input id="playful" type="checkbox"
+    name="personality">Playful</label>
+
   </form>
 
 </main>
