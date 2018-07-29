@@ -25,12 +25,12 @@
   <button type="submit">Submit</button>
    <label for="indoor">
       <input id="indoor" type="radio" 
-     name="indoor-outdoor">Indoor</label>
+     name="indoor-outdoor" checked>Indoor</label>
       <label for="outdoor">
         <input id="outdoor" type="radio"
         name="indoor-outdoor">Outdoor</label>
     <label for="loving"><input id="loving" type="checkbox"
-    name="personality">Loving</label>
+    name="personality" checked>Loving</label>
     <label for="gentle"><input id="gentle" type="checkbox"  
     name="personality">Gentle</label>
     <label for="playful"><input id="playful" type="checkbox"
