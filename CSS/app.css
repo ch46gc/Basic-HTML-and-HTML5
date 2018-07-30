@@ -27,7 +27,9 @@ h2 {
  .silver-background {
     background-color: silver;
   }
- 
+  #cat-photo-form {
+    background-color: green;
+  }
 </style>
 
 <h2 class="red-text">CatPhotoApp</h2>
