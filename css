@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <h1>Start Code</h1>
+  <h1>Box Padding</h1>
   <style>
   .injected-text {
     margin-bottom: -25px;
@@ -41,14 +41,14 @@
     background-color: crimson;
     color: #fff;
     padding: 20px;
-    margin: 20px;
+    margin: -15px;
   }
 
   .blue-box {
     background-color: blue;
     color: #fff;
     padding: 20px;
-    margin: 20px;
+    margin: -15px;
   }
 </style>
 <h5 class="injected-text">margin</h5>
